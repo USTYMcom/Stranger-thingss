@@ -1,0 +1,31 @@
+body{
+	background: black;
+}
+ 
+.nav-wrapper{
+	background: firebrick;
+}
+.page-footer{
+	background: firebrick;
+}
+
+h3{
+	color:white;
+}
+h3{
+	font-family: Times New Roman;
+}
+p{
+	font-family: Times New Roman;
+}
+a {
+  color: white;
+}
+
+h4{
+	color:white;
+}
+
+h4{
+	font-family: Times New Roman;
+}
